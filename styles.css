@@ -1,5 +1,6 @@
 body {
-    background-image: url('assets/wood.jpg');
+    background-color: rgb(84, 71, 63);
+    background-image: url('website1/assets/wood.jpg');
     background-size: cover; /* Ensures the image covers the whole page */
     background-position: center center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
